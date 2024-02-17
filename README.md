@@ -1,5 +1,7 @@
 # JavaSamples
 
+**Deprecated:** This project is no longer supported by TeamFightingICE.
+
 ## File Description
 - ```data/ai``` is where AI files should be placed.
 - ```data/aiData``` is where the data required for AI loading is located.
